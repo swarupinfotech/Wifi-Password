@@ -153,7 +153,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-Built with 💻 for **CEH Training** — by [Jhatu Hacker](https://github.com/your-username)
+Built with 💻 for **CEH Training** — by [Swarup Mahato](https://github.com/your-username)
 
 *"Know your network. Secure your network."*
 
