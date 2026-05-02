@@ -17,7 +17,7 @@
 
 ## 🖥️ Preview
 
-![WiFi Key Viewer Dashboard Preview](screenshot.png)
+![WiFi Key Viewer Dashboard Preview](new.png)
 
 *(Note: Please capture a screenshot of your dashboard and save it as `screenshot.png` in the project root directory.)*
 
